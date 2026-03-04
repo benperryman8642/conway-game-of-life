@@ -1,0 +1,22 @@
+# Build directories
+/build/
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+
+# Compiled static/object archives and shared libs
+*.a
+*.so
+*.dylib
+
+# Executables and temporary build outputs
+*.exe
+*.out
+*.bin
+
+# IDE/editor folders
+.vscode/
+.idea/
